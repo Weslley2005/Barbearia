@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "839034501991",
+    "firebase_url": "https://trabalhobarbearia-f7f3d-default-rtdb.firebaseio.com",
+    "project_id": "trabalhobarbearia-f7f3d",
+    "storage_bucket": "trabalhobarbearia-f7f3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839034501991:android:4ddc67ac184e851db28dc2",
+        "android_client_info": {
+          "package_name": "br.unigran.trabalho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839034501991-pkroq9v715mgu53d5ubsvc6mk4g1ufg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.unigran.trabalho",
+            "certificate_hash": "bfdf18da3644a3cf1c876177553fdd5c3174cef4"
+          }
+        },
+        {
+          "client_id": "839034501991-d06dj6md0m904k6c9pnvjka5fj09d3qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuf636tmamp-X5JNCVPVkpO2SrvmZzo08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839034501991-d06dj6md0m904k6c9pnvjka5fj09d3qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
